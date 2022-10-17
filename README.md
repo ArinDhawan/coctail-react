@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Cocktail API-test
+
+React app to search a list of coctails beginning with an alphabet along with their ingredients
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
